@@ -1,0 +1,34 @@
+.DS_Store
+.CFUserTextEncoding
+.Trash/
+.bash_history
+.bash_profile
+.bash_profile.save
+.cache/
+.config/
+.cups/
+.dropbox/
+.filezilla/
+.imindmap/
+.local/
+.mysql_history
+.putty/
+.ssh/
+.swo
+.swp
+.thinkbuzan/
+Applications/
+Applications (Parallels)/
+Desktop/
+Documents/
+Downloads/
+Dropbox/
+Library/
+Movies/
+Music/
+My iMindMap Files/
+Pictures/
+Projects/
+Public/
+SkyDrive/
+VirtualBox VMs/
